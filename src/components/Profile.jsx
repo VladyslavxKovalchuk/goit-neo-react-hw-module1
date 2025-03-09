@@ -1,4 +1,4 @@
-import styles from './css/profile.module.css';
+import styles from './css/Profile.module.css';
 
 const Profile = ({ name, tag, location, image, stats }) => {
     return (
